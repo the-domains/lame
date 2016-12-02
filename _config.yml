@@ -1,0 +1,18 @@
+typography_spectrum: 0.9092503769788891
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.6461579469032586
+  lightness: 0.3108709529042244
+  saturation: 0.1153627522289753
+  rhythmicContrast: 0.9622426505666226
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.1306029676925391
+name: lame
+content: []
